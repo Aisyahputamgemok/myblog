@@ -5,13 +5,13 @@
 <body>
 <body background="image/18a96f4d5156a891fb6ca497b79cbdf5.jpg">
 
-<font size="20" face="impact" color="black"><marquee behavior="alternate">Plese Suppory My Small Business</marquee></font>
+<font size="20" face="impact" color="black"><marquee behavior="alternate">Plese Suppory My Small Business In. House Dessert</marquee></font>
 <br>
 <br>
 <br>
 <big>I sell various kind of cakes</big>
 <br>
-<img src="..image/images/Pastel Elegant Moodboard.png" width="30%"height="60%"></img>
+<img src="image/Pastel Elegant Moodboard.png" width="30%"height="60%"></img>
 <br>
 <br>
 <br>
